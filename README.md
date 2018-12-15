@@ -18,7 +18,7 @@ In another tab, install drupal:
 Now, move scripts to correct folder:
 
 ```bash
-./install.sh
+./place-scripts.sh
 ```
 
 ## Utilities
@@ -26,7 +26,7 @@ Now, move scripts to correct folder:
 To run php container:
 
 ```bash
-./install.sh
+./container-php.sh
 ```
 
 To use drush commands, launch them after:
