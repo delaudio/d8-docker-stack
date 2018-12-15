@@ -1,5 +1,5 @@
 #!/bin/sh
 
-docker-composer exec php bash
+docker-compose exec php bash
 
 cd web
