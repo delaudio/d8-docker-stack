@@ -1,2 +1,12 @@
-docker/
-docker-compose.override.yml
+.idea/
+.docker-sync/
+docker-runtime
+
+# Drupal
+drupal/vendor
+drupal/db
+drupal/web/core
+drupal/web/sites/*/files
+drupal/web/modules/contrib
+drupal/web/themes/contrib
+tmp
